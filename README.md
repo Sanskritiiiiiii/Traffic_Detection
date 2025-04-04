@@ -32,10 +32,6 @@ This project uses the YOLOv8 model to detect and count vehicles in a traffic vid
 
 The program will display the video with boxes around detected vehicles and the vehicle count on the screen.
 
- # Demo:
-
-(You can add an image or GIF showing the detection results here.)
-
 #  Requirements:
 
 1. Python 3.8+
